@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ITunes</string>
+    <string name="name_surname">Simge Şengün</string>
+    <string name="bottom_bar_list_pagination">Pagination</string>
+    <string name="bottom_bar_list_vertical">Vertical</string>
+    <string name="bottom_bar_list_grid">Grid</string>
+    <string name="bottom_bar_list_horizontal">Horizontal</string>
+    <string name="okay">Tamam</string>
+    <string name="not_found">Track couldn\'t found!</string>
+    <string name="detail">Detail</string>
+    <string name="error">An error has occurred, please try again.</string>
+    <string name="try_again">Try Again</string>
+    <string name="cancel">Cancel</string>
+    <string name="undefined">Undefined</string>
+    <string name="release_date">Release Date:</string>
+    <string name="technical_error">Technical error has occurred, please try again.</string>
+    <string name="network_error">There is a problem with your internet connection, please try again.</string>
+</resources>

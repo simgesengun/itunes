@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ITunes</string>
+    <string name="name_surname">Simge Şengün</string>
+    <string name="bottom_bar_list_pagination">Pagination</string>
+    <string name="bottom_bar_list_vertical">Vertical</string>
+    <string name="bottom_bar_list_grid">Grid</string>
+    <string name="bottom_bar_list_horizontal">Horizontal</string>
+    <string name="okay">Tamam</string>
+    <string name="not_found">Parça bulunamadı!</string>
+    <string name="detail">Detay</string>
+    <string name="error">Bir hata oluştu, lütfen tekrar deneyin.</string>
+    <string name="try_again">Tekrar Dene</string>
+    <string name="cancel">İptal</string>
+    <string name="undefined">Belirlenmemiş</string>
+    <string name="release_date">Çıkış Tarihi:</string>
+    <string name="technical_error">Teknik bir hata oluştu, lütfen tekrar deneyin.</string>
+    <string name="network_error">İnternet bağlantınla ilgili bir sorun var, lütfen tekrar deneyin.</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="results">
+        <item quantity="one">%d sonuç bulundu.</item>
+        <item quantity="other">%d adet sonuç bulundu.</item>
+    </plurals>
+</resources>
